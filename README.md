@@ -32,7 +32,7 @@ A machine learning project to detect fraudulent credit card transactions using m
 - Top predictive features automatically identified
 - Large transactions show higher fraud rates
 - Specific merchant categories have elevated risk
-- Best model achieves 99% fraud detection rate
+- Best model catches 98% fraud transactions
 
 ## License
 MIT License- https://opensource.org/license/mit
