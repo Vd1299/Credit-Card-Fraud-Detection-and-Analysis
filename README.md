@@ -34,4 +34,4 @@ A machine learning project to detect fraudulent credit card transactions using m
 - Best model achieves 89% fraud detection rate
 
 ## License
-MIT License
+MIT License- https://opensource.org/license/mit
