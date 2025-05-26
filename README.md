@@ -22,16 +22,17 @@ A machine learning project to detect fraudulent credit card transactions using m
 ## Results
 | Model | Accuracy | AUC |
 |-------|----------|-----|
-| Random Forest | 99.2% | 0.987 |
-| Gradient Boosting | 99.1% | 0.985 |
-| Decision Tree | 98.8% | 0.979 |
-| Naive Bayes | 97.5% | 0.968 |
+| Gradient Boosting | 99.1% | 0.99 |
+| Random Forest | 97.8% | 0.99 |
+| Decision Tree | 97.8% | 0.98 |
+| Naive Bayes | 93.4% | 0.98 |
+
 
 ## Key Insights
 - Top predictive features automatically identified
 - Large transactions show higher fraud rates
 - Specific merchant categories have elevated risk
-- Best model achieves 89% fraud detection rate
+- Best model achieves 99% fraud detection rate
 
 ## License
 MIT License- https://opensource.org/license/mit
